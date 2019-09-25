@@ -1,0 +1,13 @@
+C:\Users\Pizano\source\repos\PruebaCore\bin\Debug\netcoreapp2.2\PruebaCore.deps.json
+C:\Users\Pizano\source\repos\PruebaCore\bin\Debug\netcoreapp2.2\PruebaCore.runtimeconfig.json
+C:\Users\Pizano\source\repos\PruebaCore\bin\Debug\netcoreapp2.2\PruebaCore.runtimeconfig.dev.json
+C:\Users\Pizano\source\repos\PruebaCore\bin\Debug\netcoreapp2.2\PruebaCore.dll
+C:\Users\Pizano\source\repos\PruebaCore\bin\Debug\netcoreapp2.2\PruebaCore.pdb
+C:\Users\Pizano\source\repos\PruebaCore\obj\Debug\netcoreapp2.2\PruebaCore.csproj.CoreCompileInputs.cache
+C:\Users\Pizano\source\repos\PruebaCore\obj\Debug\netcoreapp2.2\PruebaCore.RazorAssemblyInfo.cache
+C:\Users\Pizano\source\repos\PruebaCore\obj\Debug\netcoreapp2.2\PruebaCore.RazorAssemblyInfo.cs
+C:\Users\Pizano\source\repos\PruebaCore\obj\Debug\netcoreapp2.2\PruebaCore.AssemblyInfoInputs.cache
+C:\Users\Pizano\source\repos\PruebaCore\obj\Debug\netcoreapp2.2\PruebaCore.AssemblyInfo.cs
+C:\Users\Pizano\source\repos\PruebaCore\obj\Debug\netcoreapp2.2\PruebaCore.RazorTargetAssemblyInfo.cache
+C:\Users\Pizano\source\repos\PruebaCore\obj\Debug\netcoreapp2.2\PruebaCore.dll
+C:\Users\Pizano\source\repos\PruebaCore\obj\Debug\netcoreapp2.2\PruebaCore.pdb
